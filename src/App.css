@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+body {
+  background: linear-gradient(180deg, #2E2E2E 0%, #262525 100%);
+}
+
+.texto-amarillo {
+  color: var(--primary) !important;
+}
+
+.texto-blanco {
+  color: #FFFDFB !important;
+}

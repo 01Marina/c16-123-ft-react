@@ -1,0 +1,27 @@
+.texto-marca-custom {
+    font-size: 3rem;
+}
+
+.texto-marca-slice {
+    font-size: 3.5rem;
+}
+
+.marca-underline {
+    border-bottom: 1px solid var(--orangeDarK);
+}
+
+.texto-nav {
+    font-size: 1.2rem !important;
+    font-weight: bold !important;
+}
+
+.brand-underline {
+    color: var(--primary) !important;
+    border: 3px solid !important;
+    border-color: var(--primary) !important;
+}
+
+.navbar{
+    max-height: 15vh;
+    max-width: 100%;
+}
